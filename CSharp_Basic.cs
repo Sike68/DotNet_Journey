@@ -7,7 +7,7 @@ namespace CSharpBasics
     {
         static void Main(string[] args)
         {
-/*
+
             // TOPIC 1: VARIABLES & DATA TYPES
 
             #region Variables
@@ -154,7 +154,6 @@ namespace CSharpBasics
             }
             Console.WriteLine();
             #endregion
-*/
 
             // TOPIC 9: LISTS (Dynamic Size)
             #region Lists
@@ -170,4 +169,5 @@ namespace CSharpBasics
 
         }
     }
+
 }
